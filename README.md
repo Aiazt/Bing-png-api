@@ -1,4 +1,6 @@
 # Bing-PNG-API
+# 项目作者：ITjoker233
+# 项目源码：https://blog.itjoker.cn/post/w2wHYH_2x/
 > Bing 每日图片 API
 ## 每天凌晨自动更新
 
